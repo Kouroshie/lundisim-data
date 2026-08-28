@@ -1,1 +1,2 @@
-*.grdecl -text
+# Preserve every file byte-for-byte: no CRLF/LF translation on any platform.
+* -text
